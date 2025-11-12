@@ -1,0 +1,1509 @@
+{
+  "patient1": {
+    "name": "John Doe",
+    "age": 45,
+    "records": [
+      {
+        "bp": "115/75",
+        "sugar": 92,
+        "temperature": 36.6,
+        "deviceId": "iotDevice01",
+        "ts": "2025-11-11T18:36:40.000Z"
+      },
+      {
+        "bp": "118/79",
+        "sugar": 95,
+        "temperature": 36.7,
+        "deviceId": "iotDevice01",
+        "ts": "2025-11-11T18:38:22.000Z"
+      },
+      {
+        "bp": "120/80",
+        "sugar": 102,
+        "temperature": 37,
+        "deviceId": "iotDevice01",
+        "ts": "2025-11-11T18:38:24.000Z"
+      },
+      {
+        "bp": "118/80",
+        "sugar": 131,
+        "temperature": 37.5,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:14:55.274748Z",
+        "ts": "2025-11-11T19:14:55.000Z"
+      },
+      {
+        "bp": "121/77",
+        "sugar": 106,
+        "temperature": 38.4,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:02.487277Z",
+        "ts": "2025-11-11T19:15:02.000Z"
+      },
+      {
+        "bp": "126/70",
+        "sugar": 147,
+        "temperature": 38.3,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:09.634226Z",
+        "ts": "2025-11-11T19:15:09.000Z"
+      },
+      {
+        "bp": "129/71",
+        "sugar": 150,
+        "temperature": 37.5,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:16.791446Z",
+        "ts": "2025-11-11T19:15:16.000Z"
+      },
+      {
+        "bp": "130/84",
+        "sugar": 138,
+        "temperature": 36.3,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:23.971996Z",
+        "ts": "2025-11-11T19:15:24.000Z"
+      },
+      {
+        "bp": "115/73",
+        "sugar": 114,
+        "temperature": 37.4,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:31.178182Z",
+        "ts": "2025-11-11T19:15:31.000Z"
+      },
+      {
+        "bp": "115/73",
+        "sugar": 132,
+        "temperature": 37.9,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:38.386775Z",
+        "ts": "2025-11-11T19:15:38.000Z"
+      },
+      {
+        "bp": "130/70",
+        "sugar": 153,
+        "temperature": 36.4,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:45.537238Z",
+        "ts": "2025-11-11T19:15:45.000Z"
+      },
+      {
+        "bp": "132/80",
+        "sugar": 143,
+        "temperature": 37.9,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:52.706199Z",
+        "ts": "2025-11-11T19:15:52.000Z"
+      },
+      {
+        "bp": "129/70",
+        "sugar": 137,
+        "temperature": 37.7,
+        "deviceId": "IoTDevice01",
+        "sourceTs": "2025-11-11T19:15:59.920811Z",
+        "ts": "2025-11-11T19:16:00.000Z"
+      },
+      {
+        "bp": "122/78",
+        "sugar": 83,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:15.000Z"
+      },
+      {
+        "bp": "125/84",
+        "sugar": 135,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:25.000Z"
+      },
+      {
+        "bp": "140/80",
+        "sugar": 172,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:35.000Z"
+      },
+      {
+        "bp": "120/71",
+        "sugar": 87,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:45.000Z"
+      },
+      {
+        "bp": "127/95",
+        "sugar": 163,
+        "temperature": 38.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:55.000Z"
+      },
+      {
+        "bp": "132/81",
+        "sugar": 84,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:05:04.000Z"
+      },
+      {
+        "bp": "132/69",
+        "sugar": 84,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:07:06.000Z"
+      },
+      {
+        "bp": "116/87",
+        "sugar": 176,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:35.000Z"
+      },
+      {
+        "bp": "130/88",
+        "sugar": 88,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:50.000Z"
+      },
+      {
+        "bp": "134/85",
+        "sugar": 166,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:04.000Z"
+      },
+      {
+        "bp": "135/76",
+        "sugar": 142,
+        "temperature": 36.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:19.000Z"
+      },
+      {
+        "bp": "122/77",
+        "sugar": 143,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:34.000Z"
+      },
+      {
+        "bp": "116/70",
+        "sugar": 125,
+        "temperature": 37,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:48.000Z"
+      },
+      {
+        "bp": "140/75",
+        "sugar": 73,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:29.000Z"
+      },
+      {
+        "bp": "140/92",
+        "sugar": 150,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:44.000Z"
+      },
+      {
+        "bp": "140/72",
+        "sugar": 90,
+        "temperature": 38.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:58.000Z"
+      },
+      {
+        "bp": "124/70",
+        "sugar": 92,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:13.000Z"
+      },
+      {
+        "bp": "120/94",
+        "sugar": 178,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:27.000Z"
+      },
+      {
+        "bp": "139/82",
+        "sugar": 123,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:41.000Z"
+      },
+      {
+        "bp": "140/93",
+        "sugar": 151,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:18.000Z"
+      },
+      {
+        "bp": "128/86",
+        "sugar": 89,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:32.000Z"
+      },
+      {
+        "bp": "133/78",
+        "sugar": 119,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:47.000Z"
+      },
+      {
+        "bp": "118/81",
+        "sugar": 157,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:20:01.000Z"
+      },
+      {
+        "bp": "118/93",
+        "sugar": 110,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:22:56.000Z"
+      },
+      {
+        "bp": "129/84",
+        "sugar": 93,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:10.000Z"
+      },
+      {
+        "bp": "120/94",
+        "sugar": 175,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:25.000Z"
+      },
+      {
+        "bp": "113/68",
+        "sugar": 180,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:39.000Z"
+      },
+      {
+        "bp": "119/95",
+        "sugar": 113,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:54.000Z"
+      },
+      {
+        "bp": "139/90",
+        "sugar": 147,
+        "temperature": 37.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:24:09.000Z"
+      },
+      {
+        "bp": "123/78",
+        "sugar": 100,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:28:44.000Z"
+      },
+      {
+        "bp": "131/93",
+        "sugar": 97,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:28:59.000Z"
+      },
+      {
+        "bp": "139/71",
+        "sugar": 84,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:13.000Z"
+      },
+      {
+        "bp": "130/87",
+        "sugar": 168,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:28.000Z"
+      },
+      {
+        "bp": "124/73",
+        "sugar": 87,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:42.000Z"
+      },
+      {
+        "bp": "116/74",
+        "sugar": 177,
+        "temperature": 38.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:57.000Z"
+      },
+      {
+        "bp": "136/87",
+        "sugar": 151,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:30:11.000Z"
+      },
+      {
+        "bp": "140/70",
+        "sugar": 179,
+        "temperature": 38.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:27.000Z"
+      },
+      {
+        "bp": "130/80",
+        "sugar": 92,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:42.000Z"
+      },
+      {
+        "bp": "127/70",
+        "sugar": 167,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:57.000Z"
+      },
+      {
+        "bp": "114/82",
+        "sugar": 145,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:11.000Z"
+      },
+      {
+        "bp": "138/78",
+        "sugar": 161,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:25.000Z"
+      },
+      {
+        "bp": "140/72",
+        "sugar": 102,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:40.000Z"
+      },
+      {
+        "bp": "127/69",
+        "sugar": 129,
+        "temperature": 36.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:57.000Z"
+      },
+      {
+        "bp": "117/81",
+        "sugar": 81,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:14.000Z"
+      },
+      {
+        "bp": "120/65",
+        "sugar": 165,
+        "temperature": 36.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:31.000Z"
+      },
+      {
+        "bp": "125/77",
+        "sugar": 143,
+        "temperature": 37.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:48.000Z"
+      },
+      {
+        "bp": "113/69",
+        "sugar": 83,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:05.000Z"
+      },
+      {
+        "bp": "120/86",
+        "sugar": 178,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:55.000Z"
+      },
+      {
+        "bp": "118/75",
+        "sugar": 84,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:12.000Z"
+      },
+      {
+        "bp": "121/77",
+        "sugar": 150,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:28.000Z"
+      },
+      {
+        "bp": "132/65",
+        "sugar": 103,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:45.000Z"
+      },
+      {
+        "bp": "137/94",
+        "sugar": 73,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:02.000Z"
+      },
+      {
+        "bp": "132/82",
+        "sugar": 95,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:19.000Z"
+      }
+    ]
+  },
+  "p-1762894425453": {
+    "name": "rahul",
+    "age": 23,
+    "doctor": "doc001",
+    "records": [
+      {
+        "bp": "125/72",
+        "sugar": 154,
+        "temperature": 38.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:18.000Z"
+      },
+      {
+        "bp": "125/94",
+        "sugar": 117,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:27.000Z"
+      },
+      {
+        "bp": "134/76",
+        "sugar": 74,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:37.000Z"
+      },
+      {
+        "bp": "124/69",
+        "sugar": 119,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:47.000Z"
+      },
+      {
+        "bp": "110/69",
+        "sugar": 167,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:04:57.000Z"
+      },
+      {
+        "bp": "116/70",
+        "sugar": 86,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:05:07.000Z"
+      },
+      {
+        "bp": "139/68",
+        "sugar": 111,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:07:08.000Z"
+      },
+      {
+        "bp": "124/75",
+        "sugar": 180,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:38.000Z"
+      },
+      {
+        "bp": "139/84",
+        "sugar": 170,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:52.000Z"
+      },
+      {
+        "bp": "116/73",
+        "sugar": 107,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:07.000Z"
+      },
+      {
+        "bp": "139/91",
+        "sugar": 157,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:21.000Z"
+      },
+      {
+        "bp": "137/95",
+        "sugar": 169,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:36.000Z"
+      },
+      {
+        "bp": "133/70",
+        "sugar": 165,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:51.000Z"
+      },
+      {
+        "bp": "135/77",
+        "sugar": 126,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:31.000Z"
+      },
+      {
+        "bp": "135/71",
+        "sugar": 168,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:46.000Z"
+      },
+      {
+        "bp": "123/92",
+        "sugar": 138,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:00.000Z"
+      },
+      {
+        "bp": "124/94",
+        "sugar": 153,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:15.000Z"
+      },
+      {
+        "bp": "112/92",
+        "sugar": 178,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:29.000Z"
+      },
+      {
+        "bp": "111/89",
+        "sugar": 156,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:44.000Z"
+      },
+      {
+        "bp": "127/78",
+        "sugar": 117,
+        "temperature": 38.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:20.000Z"
+      },
+      {
+        "bp": "134/71",
+        "sugar": 139,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:35.000Z"
+      },
+      {
+        "bp": "124/73",
+        "sugar": 157,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:49.000Z"
+      },
+      {
+        "bp": "128/75",
+        "sugar": 176,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:22:58.000Z"
+      },
+      {
+        "bp": "138/68",
+        "sugar": 105,
+        "temperature": 37,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:13.000Z"
+      },
+      {
+        "bp": "121/86",
+        "sugar": 107,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:27.000Z"
+      },
+      {
+        "bp": "113/72",
+        "sugar": 75,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:42.000Z"
+      },
+      {
+        "bp": "136/86",
+        "sugar": 99,
+        "temperature": 38.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:56.000Z"
+      },
+      {
+        "bp": "111/71",
+        "sugar": 79,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:24:11.000Z"
+      },
+      {
+        "bp": "130/79",
+        "sugar": 131,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:28:47.000Z"
+      },
+      {
+        "bp": "140/78",
+        "sugar": 153,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:01.000Z"
+      },
+      {
+        "bp": "123/78",
+        "sugar": 90,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:16.000Z"
+      },
+      {
+        "bp": "123/79",
+        "sugar": 140,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:30.000Z"
+      },
+      {
+        "bp": "129/92",
+        "sugar": 177,
+        "temperature": 36.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:45.000Z"
+      },
+      {
+        "bp": "118/82",
+        "sugar": 149,
+        "temperature": 36,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:59.000Z"
+      },
+      {
+        "bp": "113/73",
+        "sugar": 116,
+        "temperature": 38.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:30.000Z"
+      },
+      {
+        "bp": "138/72",
+        "sugar": 140,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:44.000Z"
+      },
+      {
+        "bp": "111/94",
+        "sugar": 138,
+        "temperature": 36.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:59.000Z"
+      },
+      {
+        "bp": "128/73",
+        "sugar": 116,
+        "temperature": 37.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:13.000Z"
+      },
+      {
+        "bp": "115/84",
+        "sugar": 153,
+        "temperature": 37.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:28.000Z"
+      },
+      {
+        "bp": "133/85",
+        "sugar": 170,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:42.000Z"
+      },
+      {
+        "bp": "113/66",
+        "sugar": 151,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:59.000Z"
+      },
+      {
+        "bp": "137/76",
+        "sugar": 92,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:16.000Z"
+      },
+      {
+        "bp": "120/69",
+        "sugar": 178,
+        "temperature": 36,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:33.000Z"
+      },
+      {
+        "bp": "121/78",
+        "sugar": 85,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:50.000Z"
+      },
+      {
+        "bp": "113/93",
+        "sugar": 129,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:07.000Z"
+      },
+      {
+        "bp": "132/88",
+        "sugar": 180,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:57.000Z"
+      },
+      {
+        "bp": "133/86",
+        "sugar": 80,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:14.000Z"
+      },
+      {
+        "bp": "134/90",
+        "sugar": 89,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:31.000Z"
+      },
+      {
+        "bp": "137/73",
+        "sugar": 100,
+        "temperature": 37.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:48.000Z"
+      },
+      {
+        "bp": "128/80",
+        "sugar": 180,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:05.000Z"
+      },
+      {
+        "bp": "119/65",
+        "sugar": 176,
+        "temperature": 36.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:21.000Z"
+      }
+    ]
+  },
+  "p-1762895183518": {
+    "name": "rishab",
+    "age": 23,
+    "doctor": "doc001",
+    "records": [
+      {
+        "bp": "134/91",
+        "sugar": 116,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-11T21:07:11.000Z"
+      },
+      {
+        "bp": "123/88",
+        "sugar": 123,
+        "temperature": 36.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:40.000Z"
+      },
+      {
+        "bp": "113/80",
+        "sugar": 94,
+        "temperature": 37.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:54.000Z"
+      },
+      {
+        "bp": "132/87",
+        "sugar": 75,
+        "temperature": 38.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:09.000Z"
+      },
+      {
+        "bp": "129/83",
+        "sugar": 180,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:24.000Z"
+      },
+      {
+        "bp": "136/67",
+        "sugar": 125,
+        "temperature": 37,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:38.000Z"
+      },
+      {
+        "bp": "125/87",
+        "sugar": 151,
+        "temperature": 36.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:34.000Z"
+      },
+      {
+        "bp": "113/73",
+        "sugar": 169,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:48.000Z"
+      },
+      {
+        "bp": "138/87",
+        "sugar": 100,
+        "temperature": 37.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:03.000Z"
+      },
+      {
+        "bp": "121/93",
+        "sugar": 119,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:17.000Z"
+      },
+      {
+        "bp": "115/72",
+        "sugar": 164,
+        "temperature": 38.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:32.000Z"
+      },
+      {
+        "bp": "138/68",
+        "sugar": 176,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:23.000Z"
+      },
+      {
+        "bp": "125/84",
+        "sugar": 176,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:37.000Z"
+      },
+      {
+        "bp": "124/86",
+        "sugar": 157,
+        "temperature": 36.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:52.000Z"
+      },
+      {
+        "bp": "129/91",
+        "sugar": 161,
+        "temperature": 38.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:00.000Z"
+      },
+      {
+        "bp": "140/90",
+        "sugar": 148,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:15.000Z"
+      },
+      {
+        "bp": "121/89",
+        "sugar": 117,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:30.000Z"
+      },
+      {
+        "bp": "133/77",
+        "sugar": 95,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:44.000Z"
+      },
+      {
+        "bp": "126/87",
+        "sugar": 151,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:59.000Z"
+      },
+      {
+        "bp": "135/87",
+        "sugar": 161,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:28:49.000Z"
+      },
+      {
+        "bp": "132/92",
+        "sugar": 142,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:04.000Z"
+      },
+      {
+        "bp": "138/71",
+        "sugar": 160,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:18.000Z"
+      },
+      {
+        "bp": "124/80",
+        "sugar": 169,
+        "temperature": 36.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:33.000Z"
+      },
+      {
+        "bp": "112/89",
+        "sugar": 82,
+        "temperature": 36.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:47.000Z"
+      },
+      {
+        "bp": "136/94",
+        "sugar": 96,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:30:01.000Z"
+      },
+      {
+        "bp": "134/90",
+        "sugar": 129,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:32.000Z"
+      },
+      {
+        "bp": "134/86",
+        "sugar": 121,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:47.000Z"
+      },
+      {
+        "bp": "135/69",
+        "sugar": 157,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:01.000Z"
+      },
+      {
+        "bp": "133/80",
+        "sugar": 105,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:16.000Z"
+      },
+      {
+        "bp": "131/74",
+        "sugar": 83,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:30.000Z"
+      },
+      {
+        "bp": "137/90",
+        "sugar": 111,
+        "temperature": 37.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:45.000Z"
+      },
+      {
+        "bp": "124/92",
+        "sugar": 178,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:02.000Z"
+      },
+      {
+        "bp": "134/67",
+        "sugar": 127,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:19.000Z"
+      },
+      {
+        "bp": "129/87",
+        "sugar": 141,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:35.000Z"
+      },
+      {
+        "bp": "128/83",
+        "sugar": 108,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:52.000Z"
+      },
+      {
+        "bp": "118/82",
+        "sugar": 80,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:09.000Z"
+      },
+      {
+        "bp": "114/93",
+        "sugar": 171,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:00.000Z"
+      },
+      {
+        "bp": "128/91",
+        "sugar": 158,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:16.000Z"
+      },
+      {
+        "bp": "133/85",
+        "sugar": 106,
+        "temperature": 36.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:33.000Z"
+      },
+      {
+        "bp": "130/65",
+        "sugar": 119,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:50.000Z"
+      },
+      {
+        "bp": "132/88",
+        "sugar": 163,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:07.000Z"
+      }
+    ]
+  },
+  "raj01": {
+    "name": "raj gayakwad",
+    "age": 23,
+    "doctor": "doc001",
+    "records": [
+      {
+        "bp": "134/66",
+        "sugar": 132,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:42.000Z"
+      },
+      {
+        "bp": "132/95",
+        "sugar": 78,
+        "temperature": 37.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:50:57.000Z"
+      },
+      {
+        "bp": "130/79",
+        "sugar": 169,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:12.000Z"
+      },
+      {
+        "bp": "139/74",
+        "sugar": 132,
+        "temperature": 38.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:26.000Z"
+      },
+      {
+        "bp": "137/72",
+        "sugar": 161,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T03:51:41.000Z"
+      },
+      {
+        "bp": "138/82",
+        "sugar": 100,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:36.000Z"
+      },
+      {
+        "bp": "127/77",
+        "sugar": 99,
+        "temperature": 36.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:15:51.000Z"
+      },
+      {
+        "bp": "119/93",
+        "sugar": 84,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:05.000Z"
+      },
+      {
+        "bp": "123/90",
+        "sugar": 166,
+        "temperature": 36.8,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:20.000Z"
+      },
+      {
+        "bp": "135/70",
+        "sugar": 92,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:16:34.000Z"
+      },
+      {
+        "bp": "128/76",
+        "sugar": 169,
+        "temperature": 36.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:25.000Z"
+      },
+      {
+        "bp": "131/95",
+        "sugar": 173,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:39.000Z"
+      },
+      {
+        "bp": "118/75",
+        "sugar": 102,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:19:54.000Z"
+      },
+      {
+        "bp": "134/86",
+        "sugar": 131,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:03.000Z"
+      },
+      {
+        "bp": "138/91",
+        "sugar": 116,
+        "temperature": 36,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:17.000Z"
+      },
+      {
+        "bp": "128/86",
+        "sugar": 171,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:32.000Z"
+      },
+      {
+        "bp": "133/79",
+        "sugar": 174,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:23:47.000Z"
+      },
+      {
+        "bp": "128/87",
+        "sugar": 176,
+        "temperature": 37.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:24:01.000Z"
+      },
+      {
+        "bp": "126/91",
+        "sugar": 117,
+        "temperature": 36.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:28:52.000Z"
+      },
+      {
+        "bp": "139/68",
+        "sugar": 149,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:06.000Z"
+      },
+      {
+        "bp": "124/83",
+        "sugar": 161,
+        "temperature": 38.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:20.000Z"
+      },
+      {
+        "bp": "130/74",
+        "sugar": 137,
+        "temperature": 36,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:35.000Z"
+      },
+      {
+        "bp": "122/76",
+        "sugar": 84,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:29:49.000Z"
+      },
+      {
+        "bp": "121/68",
+        "sugar": 137,
+        "temperature": 36,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:30:04.000Z"
+      },
+      {
+        "bp": "135/82",
+        "sugar": 124,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:35.000Z"
+      },
+      {
+        "bp": "115/72",
+        "sugar": 134,
+        "temperature": 36.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:32:49.000Z"
+      },
+      {
+        "bp": "126/92",
+        "sugar": 91,
+        "temperature": 38.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:04.000Z"
+      },
+      {
+        "bp": "126/75",
+        "sugar": 152,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:18.000Z"
+      },
+      {
+        "bp": "116/87",
+        "sugar": 168,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:33.000Z"
+      },
+      {
+        "bp": "111/67",
+        "sugar": 96,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:47.000Z"
+      },
+      {
+        "bp": "112/83",
+        "sugar": 147,
+        "temperature": 37.3,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:04.000Z"
+      },
+      {
+        "bp": "131/86",
+        "sugar": 141,
+        "temperature": 37,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:21.000Z"
+      },
+      {
+        "bp": "114/74",
+        "sugar": 124,
+        "temperature": 38.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:38.000Z"
+      },
+      {
+        "bp": "117/82",
+        "sugar": 118,
+        "temperature": 37.2,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:55.000Z"
+      },
+      {
+        "bp": "126/67",
+        "sugar": 130,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:12.000Z"
+      },
+      {
+        "bp": "139/78",
+        "sugar": 127,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:02.000Z"
+      },
+      {
+        "bp": "137/92",
+        "sugar": 95,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:19.000Z"
+      },
+      {
+        "bp": "121/94",
+        "sugar": 146,
+        "temperature": 37.9,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:36.000Z"
+      },
+      {
+        "bp": "120/69",
+        "sugar": 173,
+        "temperature": 37.7,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:52.000Z"
+      },
+      {
+        "bp": "114/79",
+        "sugar": 166,
+        "temperature": 37.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:09.000Z"
+      }
+    ]
+  },
+  "pankaj": {
+    "name": "pankaj",
+    "age": 23,
+    "doctor": "doc002",
+    "records": [
+      {
+        "bp": "110/70",
+        "sugar": 116,
+        "temperature": 36.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:33:50.000Z"
+      },
+      {
+        "bp": "135/86",
+        "sugar": 77,
+        "temperature": 36.1,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:06.000Z"
+      },
+      {
+        "bp": "115/80",
+        "sugar": 176,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:23.000Z"
+      },
+      {
+        "bp": "126/73",
+        "sugar": 120,
+        "temperature": 36.6,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:40.000Z"
+      },
+      {
+        "bp": "113/78",
+        "sugar": 89,
+        "temperature": 37.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:34:57.000Z"
+      },
+      {
+        "bp": "110/67",
+        "sugar": 95,
+        "temperature": 37,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:35:14.000Z"
+      },
+      {
+        "bp": "139/66",
+        "sugar": 167,
+        "temperature": 38.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:04.000Z"
+      },
+      {
+        "bp": "135/91",
+        "sugar": 103,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:21.000Z"
+      },
+      {
+        "bp": "122/73",
+        "sugar": 110,
+        "temperature": 38,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:38.000Z"
+      },
+      {
+        "bp": "139/93",
+        "sugar": 161,
+        "temperature": 36.5,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:36:55.000Z"
+      },
+      {
+        "bp": "127/72",
+        "sugar": 180,
+        "temperature": 38.4,
+        "deviceId": "simulator",
+        "ts": "2025-11-12T04:37:12.000Z"
+      }
+    ]
+  }
+}
